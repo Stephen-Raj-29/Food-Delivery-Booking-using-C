@@ -44,7 +44,6 @@ DE3                      0
 DE4                      0
 DE5                      0
 Allotted Delivery Executive: DE1
----------------------------------------------------------
 
 Input 2
 
@@ -62,7 +61,6 @@ DE3                      0
 DE4                      0
 DE5                      0
 Allotted Delivery Executive: DE2
----------------------------------------------------------
 
 Input 3
 Customer ID: 3
@@ -79,7 +77,6 @@ DE3                      0
 DE4                      0
 DE5                      0
 Allotted Delivery Executive: DE2 (because same location within 15mins)
----------------------------------------------------------
 
 Input 4
 Customer ID: 3
@@ -96,18 +93,17 @@ DE3                      0
 DE4                      0
 DE5                      0
 Allotted Delivery Executive: DE3
----------------------------------------------------------
 
-#                           Delivery History
+                           Delivery History
 
-# Output
+ Output
 
 TRIP EXECUTIVE RESTAURANT DESTINATION_POINT ORDERS PICK-UP_TIME DELIVERY_TIME DELIVERY CHARGE
 1       DE1       A             D              1         9:15        9:40               50
 2       DE2       B             A              2         10:15       10:45              55
 3       DE3       D             C              1         10:50       11:20              50
 
-# Total earned
+ Total earned
 
 Executive Allowance Deliver_Charges Total
   DE1       10            50          60
