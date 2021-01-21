@@ -1,2 +1,2 @@
-# Food-delivery-apps-usng-C
+# Food-delivery-apps-using-C
 Food Delivery app using C 
