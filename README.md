@@ -94,7 +94,7 @@ DE4                      0
 DE5                      0
 Allotted Delivery Executive: DE3
 
-                           Delivery History
+Delivery History
 
  Output
 
