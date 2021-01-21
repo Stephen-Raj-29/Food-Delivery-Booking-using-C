@@ -136,7 +136,7 @@ void Display()
     {
         printf(" %d\tDE%d   \t    %c   \t   %c     \t    %d  \t\t%d:%02d      \t%d:%02d   \t  %d",i+1,i+1,book[i].Restaurant,book[i].Destination,book[i].order,book[i].Hr,book[i].mins,book[i].D_Hr,book[i].D_mins,book[i].chargers);
     }
-    printf("\n\n\Total earned\n");
+    printf("\n\nTotal earned\n");
     printf("Executive  Allowance  Deliver_Charges  Total\n");
     for(int i=0;i<head;i++,printf("\n"))
     {
